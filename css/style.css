@@ -1,0 +1,81 @@
+#header {
+  width: 100%;
+  height: 50vh;
+  background-color: red;
+}
+
+#footer {
+  width: 100%;
+  background: rgba(205, 241, 173, 0.49);
+  background-image: url(../img/Vector\ 8.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#footer .foot {
+  padding-top: 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding-top: 60px;
+}
+#footer .foot img {
+  width: 100%;
+  margin-left: 40px;
+}
+#footer .foot p {
+  color: white;
+  font-weight: 800;
+  padding-left: 30px;
+}
+#footer .foot li {
+  color: white;
+  list-style: none;
+  font-weight: 500;
+}
+#footer .foot i {
+  color: white;
+}
+#footer .foot .google {
+  margin-top: 15px;
+  border-radius: 5px;
+  width: 70%;
+  height: 20%;
+  background-color: black;
+  position: relative;
+}
+#footer .foot .google .icon {
+  width: 30%;
+  padding: 8px;
+}
+#footer .foot .google .get {
+  width: 70%;
+  height: 100%;
+  position: absolute;
+  left: 30%;
+}
+#footer .foot .google .get p {
+  font-size: 10px;
+  padding: 5px 0 0 5px;
+}
+#footer .foot .app {
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 70%;
+  height: 20%;
+  background-color: black;
+  position: relative;
+}
+#footer .foot .app .icon1 {
+  width: 30%;
+  padding: 8px;
+}
+#footer .foot .app .get1 {
+  width: 75%;
+  height: 100%;
+  position: absolute;
+  bottom: 8%;
+  left: 20%;
+}
+#footer .foot .app .get1 p {
+  font-size: 10px;
+  padding: 5px 0 0 3px;
+}/*# sourceMappingURL=style.css.map */
